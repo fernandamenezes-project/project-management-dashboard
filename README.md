@@ -32,7 +32,8 @@ Criação de um dashboard visual para monitoramento de projetos, permitindo aná
 
 ## 📊 Visão Geral dos Projetos
 
-![Visão Geral](./print1.png)
+<img width="1274" height="713" alt="image" src="https://github.com/user-attachments/assets/110e5c77-6a23-4c9c-aa21-7507ea656f2b" />
+
 
 * Progresso dos projetos (%)
 * Comparação entre planejado vs realizado
@@ -42,21 +43,16 @@ Criação de um dashboard visual para monitoramento de projetos, permitindo aná
 
 ## 📈 Acompanhamento de Projetos
 
-![Projetos](./print2.png)
+<img width="1265" height="673" alt="image" src="https://github.com/user-attachments/assets/25166dd0-5536-4b02-8deb-3085ff1e90ac" />
+<img width="1263" height="688" alt="image" src="https://github.com/user-attachments/assets/fcb5bf82-ec1c-449e-b0d9-84f8ca491806" />
+
 
 * Status de cada projeto
 * Datas de início e fim
 * Percentual de conclusão
-
----
-
-## 👥 Indicadores do Projeto
-
-![Indicadores](./print3.png)
-
 * Distribuição de tarefas
 * Status das atividades
-* Horas por colaborador
+
 
 ---
 
