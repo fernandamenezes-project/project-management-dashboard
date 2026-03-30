@@ -44,7 +44,6 @@ Criação de um dashboard visual para monitoramento de projetos, permitindo aná
 ## 📈 Acompanhamento de Projetos
 
 <img width="1265" height="673" alt="image" src="https://github.com/user-attachments/assets/25166dd0-5536-4b02-8deb-3085ff1e90ac" />
-<img width="1263" height="688" alt="image" src="https://github.com/user-attachments/assets/fcb5bf82-ec1c-449e-b0d9-84f8ca491806" />
 
 
 * Status de cada projeto
